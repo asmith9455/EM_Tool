@@ -1,0 +1,5 @@
+operation				op(rec) == op(cyl)			op(rec) == op(sph)
+----------------------------------------------------------------------
+magnitude				yes							yes
+crossProduct			yes							yes
+dotProduct				no							no
